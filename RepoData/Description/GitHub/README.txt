@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Meadows web mode: turn Meadows into a netbook system and convert any browser into a system for Internet browsing only. An alternative to Chrome/ChromiumOS
